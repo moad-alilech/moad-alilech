@@ -1,9 +1,8 @@
-- 👋 Hi, I’m moad-alilech.
-- 👀 I’m interested in anything computer related...
-- 🌱 I’m currently learning cyber security & programming...
-- 📫 How to reach me "number: +212696608437" + "E-mail: moadalilech@gmail.com" .
 
-<!---
-moad-alilech/moad-alilech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 Hi, I’m **Moad Alilech**  
+- 👀 I’m passionate about all things related to technology and computers, especially **cybersecurity** and **programming**.  
+- 🌱 I’m currently in my **second year of studying cybersecurity and development**, building a strong foundation for my career.  
+- 📫 **Get in touch:**  
+  - **Phone:** +212 696 608 437  
+  - **Email:** alilech.moad@etu.uae.ac.ma  
+
